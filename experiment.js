@@ -1636,8 +1636,8 @@ const preload = {
     "img/Audi.png",
     "img/benz.png",
     "img/BMW.png",
-    "img/Genesis1.png",
-    "img/Lexus1.png",
+    "img/Genesis.png",
+    "img/Lexus.png",
     "img/Lincolin.png",
     "img/Volvo.png"
   ],
