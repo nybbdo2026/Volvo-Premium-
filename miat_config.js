@@ -3,8 +3,8 @@ const brands = [
     { name: "Audi", img: "img/Audi.png" }, 
     { name: "benz", img:"img/benz.png" }, 
     { name: "BMW", img:"img/BMW.png" },
-    { name: "Genesis", img:"img/Geneis.png" },
-    { name: "Lexux", img:"img/Lexux.png" },
+    { name: "Genesis", img:"img/Genesis.png" },
+    { name: "Lexus", img:"img/Lexus.png" },
     { name: "Lincolin", img:"img/Lincolin.png" },
     { name: "Volvo", img:"img/Volvo.png" }
   ];
